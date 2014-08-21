@@ -1,3 +1,4 @@
+"""calc.py: A simple Python calculator."""
 import sys
 
 def add_all(nums):
